@@ -35,7 +35,7 @@ Pass : theadmin404
 <hr/>
 <h4>การติดตั้ง</h4>
 <hr/>
-<p>1.ให้โหลดไฟล์ตามลิงค์ https://github.com/leksoft/waroons แล้วแตกไฟล์ออกแล้ว copy ไฟล์ไปไว้ใน htdocs ในนี้ผมใช้ MAMP จำลอง server นะครับ
+<p>1.ให้โหลดไฟล์ตามลิงค์ https://github.com/leksoft/waroons2 แล้วแตกไฟล์ออกแล้ว copy ไฟล์ไปไว้ใน htdocs ในนี้ผมใช้ MAMP จำลอง server นะครับ
 </p>
 <img src = "https://miro.medium.com/max/733/1*InNrKuHJYpLp6MwRFyXL7w.png"></img>
 <p>2.นำเข้าฐานข้อมูล ชื่อ waroonsDB.sql</p>
